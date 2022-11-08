@@ -1,5 +1,8 @@
 
-##
+## Scan Matching with ICP
+
+![img](https://user-images.githubusercontent.com/74416077/200648479-b6daf092-980f-45a9-b875-5d8483a928d6.png)
+
 In this project there are three major steps to perform scan matching.
 
 First of all, make use of cloudFiltered and scanCloud functions in order to filter the point cloud using a voxel grid.
