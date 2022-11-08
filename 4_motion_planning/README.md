@@ -1,4 +1,4 @@
-## Project
+## Motion Planning Project
 
 The aim of this project was to define the FSM states and transitions between them required to handle static objects and intersections that are required to STOP for 5 seconds. The implemented behavior is able to handle the following transitions:
 
