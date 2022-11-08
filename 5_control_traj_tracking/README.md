@@ -1,5 +1,6 @@
 # Control_Trajectory_Tracking_project
 
+![sim_screenshot1](https://user-images.githubusercontent.com/74416077/200646786-42b169bc-98b9-4663-91ad-0930827a1cd6.png)
 ## How to run 
 If you are using the Udacity workspace some specific errors can occur. 
 
