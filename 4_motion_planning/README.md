@@ -1,5 +1,8 @@
 ## Motion Planning Project
 
+![img](https://user-images.githubusercontent.com/74416077/200648479-b6daf092-980f-45a9-b875-5d8483a928d6.png)
+
+
 The aim of this project was to define the FSM states and transitions between them required to handle static objects and intersections that are required to STOP for 5 seconds. The implemented behavior is able to handle the following transitions:
 
 * from “lane following” to “deceleration to stop”,
