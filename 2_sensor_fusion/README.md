@@ -1,4 +1,4 @@
-# 3D_Object_Detection
+# Sensor Fusion and 3D Object Detection project
 Objects detection in 3D point clouds given by measurements from LiDAR and camera from the Waymo Open Dataset
 
 <p align = "center">
